@@ -1,8 +1,8 @@
 # javacrud
-Crud em Java e Spring Boot
+Crud em Java e Spring Boot;
 
 # Informações
-###API: 
+#API 
 Java e Spring Boot;
-###Banco de dados:
+#Banco de dados
 H2;
